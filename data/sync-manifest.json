@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "source": {
+    "repository": "Kantai235/Final-Fantasy-XIV-Ranking-for-TC",
+    "branch": "main",
+    "head_sha": "b64e703350278ab46756469af8adeae13c4846b3",
+    "event": "schedule"
+  },
+  "source_snapshot": {
+    "generated_at_iso": "2026-09-13T08:29:06.142Z",
+    "rankings_updated_at_iso": "2026-09-13T08:29:06.142000+00:00",
+    "total_character_count": 15417,
+    "total_entry_count": 680817,
+    "source_commit": "b64e703350278ab46756469af8adeae13c4846b3",
+    "checksum": "acf893ae03c0a557e8812954c0886b1c1fc5b6a86599efe4b5f9e3c0dda682d4"
+  },
+  "users_data_signature": "1dd40238b8cadc45a074a9e28ad18ab890a29e5cc613d318220abb8fc4d30106",
+  "users_data_counts": {
+    "users": 15537,
+    "user_entry_details": 12675,
+    "all_users": 5584,
+    "all_user_entry_details": 4275
+  },
+  "users_data_sections": {
+    "users": {
+      "file_count": 15537,
+      "total_size_bytes": 1615042451,
+      "signature": "149a315ec5d612df16ce4e50be7c21b3b74620f5dc82eda9ca436495dfb6693d"
+    },
+    "user_entry_details": {
+      "file_count": 12675,
+      "total_size_bytes": 248535378,
+      "signature": "08219a45bc8f2076ca030ab4b25c762a6e5aec24ef11d3934b632587345d0095"
+    },
+    "all_users": {
+      "file_count": 5584,
+      "total_size_bytes": 148697360,
+      "signature": "4b2134880e4de99e863fea568b940ed14c53900ea3d4ccbfac38dcff273e6815"
+    },
+    "all_user_entry_details": {
+      "file_count": 4275,
+      "total_size_bytes": 18058645,
+      "signature": "c8c1381b54e1c31a9ebccf083b406d25069c935019c993253e12c89c6b5a63f3"
+    }
+  },
+  "sync_status": {
+    "generated_at_iso": "2026-09-13T08:46:39.265Z",
+    "has_content_change": true
+  }
+}
